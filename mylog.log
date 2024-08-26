@@ -1,0 +1,4 @@
+DEPLOYMENT-NAME                   IMAGE-NAME
+calico-apiserver                  artifactory.siva.com/docker-thirdparty-local/calico/apiserver:v3.26.3
+calico-kube-controllers           artifactory.siva.com/docker-thirdparty-local/calico/kube-controllers:v3.26.3
+calico-typha                      artifactory.siva.com/docker-thirdparty-local/calico/typha:v3.26.3
