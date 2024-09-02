@@ -1,4 +1,8 @@
-DEPLOYMENT-NAME                   IMAGE-NAME
-calico-apiserver                  artifactory.siva.com/docker-thirdparty-local/calico/apiserver:v3.26.3
-calico-kube-controllers           artifactory.siva.com/docker-thirdparty-local/calico/kube-controllers:v3.26.3
-calico-typha                      artifactory.siva.com/docker-thirdparty-local/calico/typha:v3.26.3
+doc                meson1-ns   artifactory.transunion.com/docker-cld-dev-local/us/onetru/ftr-doc:1.0.49.7@sha256:c548a8343e58eac8fc55b982b2816ee0a7b97c7392369117a7374c4e8f80822f                              2024-07-03T15:55:44Z
+model-execution    meson1-ns   artifactory.transunion.com/docker-cld-dev-local/us/ape/onetru-modelexecution-service:1.27.0-SNAPSHOT@sha256:e7176f10d87f2022f7c8182a6a48bc5bfb36fea65df6ffce6b29b1e385e2946c    2024-07-03T09:16:43Z
+model-repository   meson1-ns   artifactory.transunion.com/docker-cld-dev-local/us/ape/onetru-modelrepository-service:2.13.0-SNAPSHOT@sha256:4862ddb20340229ac5ced3a5115c48050b589d0b94bd5a71212efa2409c6843e   2024-07-03T09:16:43Z
+comparator         onlon1-ns   artifactory.transunion.com/docker-cld-dev-local/us/onetru/ftr-comparator:1.0.22@sha256:df6cd98988a558f073725e18dded910a5b778dbdf733d7d7a1d6b6a9831ce86d                         2024-07-30T13:52:46Z
+doc                onlon1-ns   artifactory.transunion.com/docker-cld-dev-local/us/onetru/ftr-doc:1.0.71@sha256:43c4d524cae8b0b6b79c8cf81342266241adbd8d2b346e796ba04b447b13c424                                2024-07-25T09:56:49Z
+get-data           onlon1-ns   artifactory.transunion.com/docker-cld-dev-local/us/onetru/ftr-get-data:1.0.35@sha256:0246f52b3d493cd9c81e731614376e8e1d9140436b783fdca5e89c104884c89c                           2024-07-17T08:10:51Z
+mocks-doc          onlon1-ns   artifactory.transunion.com/docker-cld-dev-local/us/onetru/ftr-grpcwiremock:0.0.11-SNAPSHOT@sha256:914f1854cd329b30a94c609f40c79dd75b4a91ff2535d515b14e2325a6776cfa              2024-05-30T12:39:45Z
+mocks-rest         onlon1-ns   artifactory.transunion.com/docker-cld-dev-local/us/onetru/ftr-grpcwiremock:0.0.11-SNAPSHOT@sha256:914f1854cd329b30a94c609f40c79dd75b4a91ff2535d515b14e2325a6776cfa              2024-05-31T12:31:57Z
